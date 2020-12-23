@@ -13,8 +13,7 @@
 # - pycamilladsp-plot v0.4.3     https://github.com/HEnquist/pycamilladsp-plot/archive/v0.4.3.zip
 # - camillagui-backend v0.6.0    https://github.com/HEnquist/camillagui-backend/releases/download/v0.6.0/camillagui.zip
 # - Websocket & Six              https://github.com/Lykkedk/SuperPlayer_Websocket/archive/v1.0.zip
-# - StartServer.sh               https://github.com/Lykkedk/SuperPlayer-Extensions/archive/v1.0.zip
-#
+# - StartServer.sh               https://github.com/Lykkedk/SuperPlayer-Extensions/archive/CamillaGUI-start-v1.0.zip
 
 RED='\033[1;31m'
 GREEN='\033[1;32m'
@@ -26,7 +25,7 @@ get_pycamilladsp="https://github.com/HEnquist/pycamilladsp/archive/v0.5.0.zip"
 get_pycamilladsp_plot="https://github.com/HEnquist/pycamilladsp-plot/archive/v0.4.3.zip"
 get_camillagui="https://github.com/HEnquist/camillagui-backend/releases/download/v0.6.0/camillagui.zip"
 get_websocket="https://github.com/Lykkedk/SuperPlayer_Websocket/archive/v1.0.zip"
-get_startscript="https://github.com/Lykkedk/SuperPlayer-Extensions/archive/v1.0.zip"
+get_startscript="https://github.com/Lykkedk/SuperPlayer-Extensions/archive/CamillaGUI-start-v1.0.zip"
 
 # .Zip name / version
 zip_camilladsp=v0.5.0-beta-2.zip
@@ -34,14 +33,14 @@ zip_pycamilladsp=v0.5.0.zip
 zip_pycamilladsp_plot=v0.4.3.zip
 zip_camillagui=camillagui.zip
 zip_websocket=v1.0.zip
-zip_startscript=v1.0.zip
+zip_startscript=CamillaGUI-start-v1.0.zip
 
 # Directory name when unzipped
 zipdir_camilladsp=SuperPlayer_Camilladsp-0.5.0-beta-2
 zipdir_websocket=SuperPlayer_Websocket-1.0
 zipdir_pycamilladsp=pycamilladsp-0.5.0
 zipdir_pycamilladsp_plot=pycamilladsp-plot-0.4.3
-zipdir_startscript=SuperPlayer-Extensions-1.0
+zipdir_startscript=SuperPlayer-Extensions-CamillaGUI-start-v1.0
 zipdir_camillagui=none # Camillagui is not extracted into directory
 
 extensions=/mnt/mmcblk0p2/tce/Camilla_Extensions
